@@ -95,11 +95,8 @@ export const siteConfig: SiteConfig = {
   name: "🇮🇹 Mirkolab",
   title: "Astro Portfolio Template built with 🌼 DaisyUI",
   description:
-    "He customizado mi portfolio con esta magnífica plantilla moderna y responsive con la tecnología de Astro. Un framework super rápido con una optimización super rápida en la carga de paginas web. Si te gusta te invito a que visites directamente su pagina oficial <a href="https://astro.build/"
-        target="_blank"
-        >Astro</a> y que descargues este mismo Theme. <a href="https://astro.build/themes/details/bloomfolio/"
-        target="_blank"
-        >Theme</a>",
+    "He customizado mi portfolio con esta magnífica plantilla moderna y responsive con la tecnología de Astro. Un framework super rápido con una optimización super rápida en la carga de paginas web. Si te gusta te invito a que visites directamente su pagina oficial 
+    <a href="https://astro.build/">Astro</a> y que descargues este mismo Theme. <a href="https://astro.build/themes/details/bloomfolio/">Theme</a>",
   avatar: "../assets/bloomfolio.png",
   location: "🇪🇸 Spain",
   email: "mirko.zedde@gmail.com",
