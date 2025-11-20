@@ -14,11 +14,8 @@ import { Code } from "astro:components";
 export interface SocialLinks {
   github?: string;
   linkedin?: string;
-  twitter?: string;
-  bluesky?: string;
   instagram?: string;
   youTube?: string;
-  codetips?: string;
 }
 
 /**
@@ -95,21 +92,18 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
+  name: "🇮🇹 Mirkolab",
   title: "Astro Portfolio Template built with 🌼 DaisyUI",
   description:
     "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
   avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
-  email: "hello@example.com",
+  location: "🇪🇸 Spain",
+  email: "mirko.zedde@gmail.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
+    github: "https://github.com/chircami",
+    linkedin: "https://www.linkedin.com/in/mirkozedde/",
     instagram: "https://instagram.com/lauroguedes.dev",
     youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
   },
   enableThemeSelector: true,
   extraLinks: {
