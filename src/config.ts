@@ -125,9 +125,9 @@ export const siteConfig: SiteConfig = {
         label: "Markdown Guide",
       },
       {
-        link: "https://github.com/lauroguedes/bloomfolio",
-        icon: CodeXml,
-        label: "GitHub Repo",
+        link: "https://chircami.github.io/",
+        icon: House,
+        label: "Home",
       },
     ],
   },
