@@ -1,5 +1,5 @@
 ---
-title: "Algo sobre me"
+title: "Algo sobre mi"
 photo: "https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Destiny&scale=90&backgroundColor=763900,9e5622,ecad80,f2d3b1,c0aede,b6e3f4"
 ---
 
